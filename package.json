@@ -22,5 +22,8 @@
     "esbuild": "^0.14.5",
     "eslint": "^7.6.0",
     "typescript": "^4.5.4"
+  },
+  "dependencies": {
+    "welly": "^0.0.2"
   }
 }
